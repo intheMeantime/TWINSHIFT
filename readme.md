@@ -5,8 +5,8 @@ Audio deepfakes pose a growing threat, already exploited in fraud and misinforma
 
 
 ## Download _TWINSHIFT_ Dataset
-### Metadata
-<https://zenodo.org/records/17199008>
+
+<https://zenodo.org/records/17242366>
 
 ### Download Bonafide
 - ASVspoof2019 (ODC-BY 1.0, <https://datashare.ed.ac.uk/handle/10283/3336>)
